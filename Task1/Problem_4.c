@@ -20,4 +20,5 @@ int main() {
     else {
         printf("The word '%s' is not a palindrome.", string);
     }
+    free(string);
 }
