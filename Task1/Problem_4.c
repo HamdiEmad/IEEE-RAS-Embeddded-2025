@@ -21,8 +21,4 @@ int main() {
         printf("The word '%s' is not a palindrome.", string);
     }
     free(string);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> dbd5e62 (Save local changes before pull)
